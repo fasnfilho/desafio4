@@ -1,0 +1,113 @@
+.mainContato{
+    background-image: url('../Images/fundo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.header1{
+    display: flex;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.header1 h2{
+    position: absolute;
+}
+.header1 img{
+    width: 100%;
+    max-height: 500px;
+    min-width: 208.5vh;
+    height: auto;
+}
+.header1 h2{
+    color: gold;
+    font-size: 60px;
+}
+.contact-details{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.sede{
+    padding: 15px;
+    min-width: 700px;
+}
+.sede-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: deepskyblue;
+}
+.sede-content img{
+    min-width: 500px;
+    max-width: 500px;
+    max-height: 200px;
+    border-radius: 12px;
+    padding-bottom: 15px;
+}
+.sede-content h2{
+    font-size: 16px;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.forms h2{
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contact-form {
+    min-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .contact-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .contact-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    width: calc(100% - 12px);
+    padding: 6px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .contact-form textarea {
+    height: 120px;
+  }
+  
+  .contact-form button {
+    padding: 8px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact-form button:hover {
+    background-color: #0056b3;
+  }
+  

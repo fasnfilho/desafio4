@@ -1,0 +1,20 @@
+[
+    {
+      "id": 0,
+      "author": "Maria",
+      "content": "Site muito completo, me diverti bastante fazendo o quiz pra saber qual protagonista de anime eu sou!",
+      "photoUrl": "/imagenstest/cliente1.jpg"
+    },
+    {
+      "id": 1,
+      "author": "José",
+      "content": "Entrei só pra fazer um quiz avulso de internet e acabei me admirando com esse site e a organização de vocês, parabéns.",
+      "photoUrl": "/imagenstest/cliente2.jpg"
+    },
+    {
+        "id": 2,
+        "author": "Adriana",
+        "content": "Adoreeii tudooo, ainda mais porque meu quiz deu o Seiya :)!",
+        "photoUrl": "/imagenstest/cliente3.jpg"
+    }
+  ]

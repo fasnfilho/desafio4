@@ -1,0 +1,29 @@
+.mainFooter{
+    background-color: rgb(10,10,10);
+    color: white;
+
+    padding: 1rem .8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.esq{
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.esq h1{
+    font-size: 30px;
+}
+.meio h1{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dir{
+    font-size: 50px;
+}
+.dir h1{
+    font-size: 30px;
+}
